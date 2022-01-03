@@ -1,0 +1,16 @@
+C:\Users\Kevin Wilson\source\repos\NBAAwards\bin\Debug\net5.0\NBAAwards.exe
+C:\Users\Kevin Wilson\source\repos\NBAAwards\bin\Debug\net5.0\NBAAwards.deps.json
+C:\Users\Kevin Wilson\source\repos\NBAAwards\bin\Debug\net5.0\NBAAwards.runtimeconfig.json
+C:\Users\Kevin Wilson\source\repos\NBAAwards\bin\Debug\net5.0\NBAAwards.runtimeconfig.dev.json
+C:\Users\Kevin Wilson\source\repos\NBAAwards\bin\Debug\net5.0\NBAAwards.dll
+C:\Users\Kevin Wilson\source\repos\NBAAwards\bin\Debug\net5.0\ref\NBAAwards.dll
+C:\Users\Kevin Wilson\source\repos\NBAAwards\bin\Debug\net5.0\NBAAwards.pdb
+C:\Users\Kevin Wilson\source\repos\NBAAwards\obj\Debug\net5.0\NBAAwards.csproj.AssemblyReference.cache
+C:\Users\Kevin Wilson\source\repos\NBAAwards\obj\Debug\net5.0\NBAAwards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Wilson\source\repos\NBAAwards\obj\Debug\net5.0\NBAAwards.AssemblyInfoInputs.cache
+C:\Users\Kevin Wilson\source\repos\NBAAwards\obj\Debug\net5.0\NBAAwards.AssemblyInfo.cs
+C:\Users\Kevin Wilson\source\repos\NBAAwards\obj\Debug\net5.0\NBAAwards.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Wilson\source\repos\NBAAwards\obj\Debug\net5.0\NBAAwards.dll
+C:\Users\Kevin Wilson\source\repos\NBAAwards\obj\Debug\net5.0\ref\NBAAwards.dll
+C:\Users\Kevin Wilson\source\repos\NBAAwards\obj\Debug\net5.0\NBAAwards.pdb
+C:\Users\Kevin Wilson\source\repos\NBAAwards\obj\Debug\net5.0\NBAAwards.genruntimeconfig.cache
